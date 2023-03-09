@@ -35,7 +35,7 @@ Desktop
 ### Links
 
 - Solution URL: [Github](https://github.com/anerpeco/pod-request-access-landing-page)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://pod-request-access-landing-page-anerpeco.vercel.app/)
 
 ## My process
 
